@@ -1,0 +1,130 @@
+{
+  "transferencias": [
+    {
+      "id": "1",
+      "valor": 35,
+      "destino": "1212-1",
+      "data": "2020-11-04T16:30:10.710Z"
+    },
+    {
+      "id": "2",
+      "valor": 40,
+      "destino": "1213-1",
+      "data": "2020-11-04T21:24:10.710Z"
+    },
+    {
+      "id": "3",
+      "valor": 12.5,
+      "destino": "1214-1",
+      "data": "2020-11-05T21:14:10.710Z"
+    },
+    {
+      "valor": 20,
+      "destino": "1234-1",
+      "data": "2022-10-25T18:22:54.520Z",
+      "id": "oeuijAt"
+    },
+    {
+      "valor": 0,
+      "destino": 0,
+      "data": "2022-10-25T18:22:56.632Z",
+      "id": "C2Hqgk5"
+    },
+    {
+      "valor": 1.4,
+      "destino": "1212-1",
+      "data": "2022-11-10T20:19:27.404Z",
+      "id": "CjteNRU"
+    },
+    {
+      "valor": 0,
+      "destino": 0,
+      "data": "2022-11-10T20:19:29.534Z",
+      "id": "66Xwc3D"
+    },
+    {
+      "valor": 0,
+      "destino": 0,
+      "data": "2022-11-10T20:19:30.277Z",
+      "id": "SCkcEbb"
+    },
+    {
+      "valor": 0,
+      "destino": 0,
+      "data": "2022-11-10T20:19:32.222Z",
+      "id": "MOjA_Lq"
+    },
+    {
+      "valor": 0,
+      "destino": 0,
+      "data": "2022-11-10T20:19:33.276Z",
+      "id": "eWFles8"
+    },
+    {
+      "valor": 0,
+      "destino": 0,
+      "data": "2022-11-10T20:19:33.451Z",
+      "id": "Gb4j03l"
+    },
+    {
+      "valor": 0,
+      "destino": 0,
+      "data": "2022-11-10T20:19:33.647Z",
+      "id": "0V9duQ-"
+    },
+    {
+      "valor": 0,
+      "destino": 0,
+      "data": "2022-11-10T20:19:33.845Z",
+      "id": "48ONBiE"
+    },
+    {
+      "valor": 0,
+      "destino": 0,
+      "data": "2022-11-10T20:19:34.031Z",
+      "id": "oGbyuzl"
+    },
+    {
+      "valor": 0,
+      "destino": 0,
+      "data": "2022-11-10T20:19:34.231Z",
+      "id": "rChmaw8"
+    },
+    {
+      "valor": 0,
+      "destino": 0,
+      "data": "2022-11-10T20:19:34.552Z",
+      "id": "25pw7mz"
+    },
+    {
+      "valor": 0,
+      "destino": 0,
+      "data": "2022-11-10T20:19:34.875Z",
+      "id": "F2rJhs2"
+    },
+    {
+      "valor": 0,
+      "destino": 0,
+      "data": "2022-11-10T20:19:39.493Z",
+      "id": "bt3cJIP"
+    },
+    {
+      "valor": 40,
+      "destino": "1212-4",
+      "data": "2022-11-18T21:58:54.692Z",
+      "id": "5M1KXTL"
+    },
+    {
+      "valor": 25,
+      "destino": "2233-1",
+      "data": "2022-11-18T22:13:42.127Z",
+      "id": "G-Ane4f"
+    },
+    {
+      "valor": 120,
+      "destino": "1323-2",
+      "data": "2022-11-18T22:28:35.809Z",
+      "id": "ldTJRIw"
+    }
+  ]
+}
